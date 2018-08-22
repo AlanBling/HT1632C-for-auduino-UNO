@@ -1,3 +1,8 @@
+/*
+Author: Alan Zhang
+Date: 2018-07-21
+Description: Modify from 51_STC program
+*/
 /*---------------------------PIN setting---------------------------------------------------*/
 #define DAT 7
 #define _WR 6
